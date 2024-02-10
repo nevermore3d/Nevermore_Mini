@@ -4,5 +4,7 @@ Same performance as 3-6 micros, plus hepa filtration, in an adaptable package. U
 
 Beta release 155(W)x187(H)x48(D) mm, but will come in several sizes. January 2024.
 
-![Nevermore_Mini
-](./mini5.png)
+![Nevermore_Mini](./Nevermore_Mini_Electronics_Beta2.png)
+![Nevermore_Mini](./Nevermore_Mini_Electronics_Beta.png)
+![Nevermore_Mini](./Nevermore_Mini_Beta2.png)
+![Nevermore_Mini](./Nevermore_Mini_Beta.png)
