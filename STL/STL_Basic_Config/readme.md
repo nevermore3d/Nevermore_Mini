@@ -1,0 +1,1 @@
+These are the necessary files to make a Nevermore Mini without screen, electronics and sensor. Just install with your 4028 fan of choice. Works well with the [OneTwo3D Kit](https://www.onetwo3d.co.uk/product/nevermore-mini-basic-kit/?wpam_id=2)
