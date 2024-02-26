@@ -1,4 +1,4 @@
-Mini size - Max performance. A new standard in tiny printer filtration. 
+Mini size - Max performance. A new standard in tiny printer filtration. read more on [Printables](https://www.printables.com/model/757663-nevermore-mini-3d-printer-hepa-and-carbon-air-filt). 
 
 Same performance as 3-6 micros, plus hepa filtration, in an adaptable package. Use with a single fan controlled by the printer, as standalone or as a connected mcu with VOC sensors? Mini got you covered. 
 
