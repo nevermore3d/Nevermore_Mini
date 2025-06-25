@@ -1,0 +1,1 @@
+**Note**: The Nevermore Mini v0 version is shrunken to fit inside the tiny build chamber of a v0 or similar machine, without interfering with the toolhead. As such, while it uses the same hepa and has the same size electronics/wire compartment, it cant use the same fans as the regular Mini. No 4028, no 5015 or 5020. **It uses dual 4010 blower fans**.
